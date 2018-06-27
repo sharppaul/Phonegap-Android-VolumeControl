@@ -1,6 +1,6 @@
 {
   "name": "phonegap-android-volume-control",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Phonegap Android Volume Control Plugin",
   "cordova": {
     "id": "phonegap-android-volume-control",
