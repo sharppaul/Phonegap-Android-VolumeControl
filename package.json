@@ -1,0 +1,26 @@
+{
+  "name": "phonegap-android-volume-control",
+  "version": "1.0",
+  "description": "Phonegap Android Volume Control Plugin",
+  "cordova": {
+    "id": "phonegap-android-volume-control",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharppaul/Phonegap-Android-VolumeControl"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "phonegap"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android"
+    }
+  ]
+}
